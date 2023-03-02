@@ -120,14 +120,14 @@ https://replit.com/@luisfierro01/EaglercraftY
 
 ## Free Update List for New stuff
 May include
-Shield
+Shields
 Elytra
 End Cities
-
+Chorus Fruit
 
 
 ## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+Possible login with Microsoft account to connect to servers such as [Hypixel?](hypixel.net)
 
 
 ## Authors and acknowledgment
