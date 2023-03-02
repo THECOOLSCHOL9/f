@@ -124,6 +124,7 @@ Shields
 Elytra
 End Cities
 Chorus Fruit
+Mending Enchantment
 
 
 ## Roadmap
@@ -139,7 +140,7 @@ Apache License 2.0 license
 ## Project status
 the project been Slowed Down for a while untill i figure out use Mcp928 archive
 
-# how to copy to your replit (gitlab) or github
+# How to contribute (requires Gitlab account)
 ```
 cd existing_repo
 git remote add origin https://gitlab.com/lfierro743/eaglercrafty-1.9.git
