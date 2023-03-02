@@ -128,7 +128,7 @@ Mending Enchantment
 
 
 ## Roadmap
-Possible login with Microsoft account to connect to servers such as [Hypixel?](hypixel.net)
+Possible login with Microsoft account to connect to servers such as [Hypixel?](https://hypixel.net)
 
 
 ## Authors and acknowledgment
@@ -142,9 +142,9 @@ the project been Slowed Down for a while untill i figure out use Mcp928 archive
 
 # How to contribute (requires Gitlab account)
 ```
-cd existing_repo
+git clone https://gitlab.com/lfierro743/eaglercrafty-1.9.git
+cd eaglercrafty-1.9
 git remote add origin https://gitlab.com/lfierro743/eaglercrafty-1.9.git
 git branch -M main
 git push -uf origin main
 ```
-
