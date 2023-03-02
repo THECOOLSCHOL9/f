@@ -1,4 +1,4 @@
-# Project-EaglercraftY-1.9-version
+# Project-EaglercraftY-1.9-version(WIP)
 (PLEASE DONT SUE ME MICROSOFT!)
 
 Planned Release date:March 20th
@@ -11,7 +11,8 @@ This project wil have the official Code of minecraft  1.9.4 and this respository
 
 
 (i need to code Opengl to make it possible and try to port to Teavm to 1.9)
-![New background](https://user-images.githubusercontent.com/67106394/222327411-689dd5e5-01c3-4455-8072-19dc2c307094.jpg)
+![Mock-up of the title screen](https://user-images.githubusercontent.com/67106394/222327411-689dd5e5-01c3-4455-8072-19dc2c307094.jpg)
+Mock-up of the title screen
 >Eaglercraft is real Minecraft 1.9.4 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer (coming soon)
 
 
@@ -146,5 +147,5 @@ git clone https://gitlab.com/lfierro743/eaglercrafty-1.9.git
 cd eaglercrafty-1.9
 git remote add origin https://gitlab.com/lfierro743/eaglercrafty-1.9.git
 git branch -M main
-git push -uf origin main
+git commit
 ```
