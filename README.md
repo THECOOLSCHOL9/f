@@ -120,62 +120,10 @@ https://replit.com/@luisfierro01/EaglercraftY
 
 ## Free Update List for New stuff
 May include
-1.new eletrya 
-2. New End cities
-3.adding a Warden
-4. new Blocks (sulk,Caystic,Acacia Boat with Chest,Allay Spawn Egg,Birch Boat with Chest,Bucket of Tadpole,Dark Oak Boat with Chest
-Disc Fragment
-Echo Shard
-Frog Spawn Egg
-Frogspawn
-Goat Horn
-Jungle Boat with Chest
-Mangrove Boat
-Mangrove Boat with Chest
-Mangrove Button
-Mangrove Door
-Mangrove Fence
-Mangrove Fence Gate
-Mangrove Leaves
-Mangrove Log
-Mangrove Planks
-Mangrove Pressure Plate
-Mangrove Propagule
-Mangrove Roots
-Mangrove Sign
-Mangrove Slab
-Mangrove Stairs
-Mangrove Trapdoor
-Mangrove Wood
-Mud
-Mud Brick Slab
-Mud Brick Stairs
-Mud Brick Wall
-Mud Bricks
-Muddy Mangrove Roots
-Music Disc
-Oak Boat with Chest
-Ochre Froglight
-Packed Mud
-Pearlescent Froglight
-Recovery Compass
-Reinforced Deepslate
-Sculk
-Sculk Catalyst
-Sculk Shrieker
-Sculk Vein
-Spruce Boat with Chest
-Stripped Mangrove Log
-Stripped Mangrove Wood
-Tadpole Spawn Egg
-Verdant Froglight
-Warden Spawn Egg 
-nethrite Armor
-Netherite Tools
-Smithing Table
 Shield
+Elytra
+End Cities
 
-end of List
 
 
 ## Roadmap
@@ -183,7 +131,7 @@ If you have ideas for releases in the future, it is a good idea to list them in 
 
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+[OtterDev](https://gitlab.com/oand6034)
 
 ## License
 Apache License 2.0 license 
@@ -192,9 +140,10 @@ Apache License 2.0 license
 the project been Slowed Down for a while untill i figure out use Mcp928 archive
 
 # how to copy to your replit (gitlab) or github
+```
 cd existing_repo
 git remote add origin https://gitlab.com/lfierro743/eaglercrafty-1.9.git
 git branch -M main
 git push -uf origin main
-
+```
 
