@@ -33,11 +33,19 @@ https://replit.com/@luisfierro01/EaglercraftY
 
 
 ### Manual setup instructions:
-(COMING SOON)
+this going need java installed to run  it
+1.Make sure you have at least Java 10 installed and added to your PATH
+2.Download (clone) this repository to your computer
+3.Double click CompileLatestClient.bat, a GUI resembling a classic windows installer should open
+4.Follow the steps shown to you in the new window to finish compiling
 
 
 ## Singleplayer?
 (no singleplayer yet and Coming soon Not implemented)
+
+## Multiplayer?
+(no Multiplayer yet and Coming soon Not implemented)
+
 
 
 ## How does it work?
@@ -126,6 +134,21 @@ Elytra
 End Cities
 Chorus Fruit
 Mending Enchantment
+updated Ender dragon
+Chorus flowers
+Chorus plants
+Dragon head
+End gateways
+End rods
+End stone bricks
+Frosted ice
+timed attack system
+dual wielding
+tipped arrows
+shields
+And Lot More!
+stay Tuned for new updates!
+New stuff can be Added
 
 
 ## Roadmap
